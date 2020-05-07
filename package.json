@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "canvas-sketch": "^0.7.3",
+    "canvas-sketch-cli": "^1.11.7",
+    "canvas-sketch-util": "^1.10.0",
+    "glsl-aastep": "^1.0.1",
+    "glsl-noise": "^0.0.0",
+    "three": "^0.116.1"
+  }
+}
